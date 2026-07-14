@@ -1,7 +1,11 @@
 # Enhancing EHRs with GenAI
 
 AI-powered Electronic Health Records enhancement system that combines medical image processing, clinical note generation, and ICD-10 code assignment using GPT-4.
+Live Demo
 
+You can access the deployed application here:
+
+🔗 Live Website: https://ai-powered-enhanced-ehr-git-bec835-pushpa-latha-techs-projects.vercel.app/
 ## Features
 
 - **Data Preprocessing**: EHR and MRI image preprocessing with ICD-10 mapping
